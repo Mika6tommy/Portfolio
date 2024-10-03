@@ -26,7 +26,7 @@ const Hero = () => {
 					<p
 						className={`${styles.heroSubText} mt-2 text-white-100 glitch`}
 						data-text='Je conçois des expériences digitales
-						immersives qui captivent les utilisateurs'
+						 immersives qui captivent les utilisateurs'
 					>
 						Je conçois des expériences digitales <br className='sm:block hidden' />
 						immersives qui captivent les utilisateurs
