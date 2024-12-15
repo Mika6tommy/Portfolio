@@ -143,27 +143,23 @@ const experiences = [
 const socials = [
   {
     image: linkedin,
-    link: "https://www.linkedin.com/in/sahil-khadka/"
+    link: "https://www.linkedin.com/in/mika-tommy-19206a2a7/"
   },
   {
     image: github,
-    link: "https://github.com/sahilxkhadka"
-  },
-  {
-    image: gitlab,
-    link: "https://gitlab.com/sahilkhadka767"
+    link: "https://github.com/Mika6tommy/"
   },
   {
     image: twitter,
-    link: "https://twitter.com/SahilKhadka15"
+    link: "https://x.com/MikaTommypr"
   },
   {
     image: instagram,
-    link: "https://www.instagram.com/sahil_khadka_627/"
+    link: "https://www.instagram.com/tomreevespr/"
   },
   {
     image: gmail,
-    link: "mailto:sahilkhadka767@gmail.com"
+    link: "mailto:tommyhas743@gmail.com"
   }
 ]
 
