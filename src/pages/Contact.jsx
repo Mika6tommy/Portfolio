@@ -25,7 +25,7 @@ function Contact() {
 		emailjs
 			.send(
 				"service_79opuza",
-				"template_xxa6gzr",
+				"template_hiqzk5l",
 				{
 					from_name: form.name,
 					to_name: "Tommy",
