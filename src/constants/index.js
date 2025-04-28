@@ -165,9 +165,9 @@ const socials = [
 
 const projects = [
   {
-    name: "FIB",
+    name: "SEIMAD SA Showcase website",
     description:
-      "Web-based platform that allows users to create a wide range of high-quality capacity profiles. You can quickly set up a capacity profile (FML, IZP or BAR) using customizable formats.",
+      "This real estate showcase website provides a professional online presence for the company, featuring property listings, services, and a news section to keep clients informed about market trends. Built with a modern design and seamless navigation, it enhances user experience and engagement",
     tags: [
       {
         name: "html",
@@ -178,12 +178,8 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "javascript",
+        name: "Symfony",
         color: "orange-text-gradient"
-      },
-      {
-        name: "jQuery",
-        color: "pink-text-gradient",
       },
     ],
     image: fib,

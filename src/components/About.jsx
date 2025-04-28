@@ -45,9 +45,8 @@ const About = () => {
 				variants={fadeIn("", "", 0.1, 1)}
 				className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
 			>
-				Je suis un développeur frontend compétent en Sass, Bootstrap et Tailwind pour
-				créer une interface utilisateur réactive. Avec une expertise en jQuery, TypeScript, React et
-				Redux Toolkit, je crée des applications Web évolutives qui offrent aux utilisateurs des performances exceptionnelles
+				Je suis un développeur frontend compétent en Symfony, Bootstrap et React pour
+				créer une interface utilisateur réactive. Je crée des applications Web évolutives qui offrent aux utilisateurs des performances exceptionnelles
 				expériences. Je donne la priorité au codage propre et je reste au courant des tendances
 				pour dépasser les attentes. Travaillons ensemble sur votre prochain projet.
 			</motion.p>
