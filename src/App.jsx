@@ -3,6 +3,7 @@ import React, { Suspense, lazy } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Navbar } from "./components";
 import Loading from "./components/canvas/Loading";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import RedirectToHome from "./components/RedirectToHome";
 
 const Home = lazy(
@@ -40,6 +41,7 @@ const App = () => {
 					</BrowserRouter>
 				</Suspense>
 			</div>
+			<SpeedInsights />
 			<Analytics />
 		</>
 	);
